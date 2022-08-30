@@ -2,7 +2,5 @@
 Want to study Machine Learning Deeper
 
 ## List of subject
-* asd
-* asd
-* asdasd
-* asdasd
+1. Create Neural Network with Tensorflow and Keras
+2. Image Classification
