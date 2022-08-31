@@ -9,3 +9,4 @@ Want to study Machine Learning Deeper
     * [2C- Style Transfer](https://github.com/manabil/Machine_Learning_Intermediate/blob/main/2-%20Image%20Classification/2C-%20Style_Transfer.ipynb)
 3. Natural Language Processing
     * [3A- Tokenization](https://github.com/manabil/Machine_Learning_Intermediate/blob/main/3-%20Natural%20Language%20Processing/3A-%20Tokenization.ipynb)
+    * [3B- Binary Text Classification](https://github.com/manabil/Machine_Learning_Intermediate/blob/main/3-%20Natural%20Language%20Processing/3B-%20Binary%20Text%20Classification.ipynb)
