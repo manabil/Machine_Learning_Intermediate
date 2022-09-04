@@ -17,5 +17,5 @@
     * [3G- Multiclass Text Classification](https://github.com/manabil/Machine_Learning_Intermediate/blob/main/3-%20Natural%20Language%20Processing/3G-%20NLP%20Multiclass%20Text%20Classification.ipynb)
 4. 📈 Time Series
     * [4A- Time Series with LSTM](https://github.com/manabil/Machine_Learning_Intermediate/blob/main/4-%20Time%20Series/4A-%20Time%20Series%20with%20LSTM.ipynb)
-5. Reinforcement Training
+5. 🤖 Reinforcement Training
     * [5A- TF Agents and Deep Q Network](https://github.com/manabil/Machine_Learning_Intermediate/blob/main/5-%20Reinforcement%20Learning/5A-%20TF%20Agents%20and%20Deep%20Q%20Network.ipynb)
