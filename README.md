@@ -19,3 +19,5 @@
     * [4A- Time Series with LSTM](https://github.com/manabil/Machine_Learning_Intermediate/blob/main/4-%20Time%20Series/4A-%20Time%20Series%20with%20LSTM.ipynb)
 5. 🤖 Reinforcement Training
     * [5A- TF Agents and Deep Q Network](https://github.com/manabil/Machine_Learning_Intermediate/blob/main/5-%20Reinforcement%20Learning/5A-%20TF%20Agents%20and%20Deep%20Q%20Network.ipynb)
+6. 🏗 Deployment
+    * [6A- TF22oonx Export](https://github.com/manabil/Machine_Learning_Intermediate/blob/main/6-%20Deployment/6A-%20TF2onnx%20Export.ipynb)
