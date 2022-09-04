@@ -15,3 +15,4 @@
     * [3E- Course 3 - Week 2 - Lesson 1](https://github.com/manabil/Machine_Learning_Intermediate/blob/main/3-%20Natural%20Language%20Processing/3E-%20Course%203%20Week%202%20Lesson%201.ipynb)
     * [3F- Multiclass Text Classification](https://github.com/manabil/Machine_Learning_Intermediate/blob/main/3-%20Natural%20Language%20Processing/3F-%20Multiclass%20Text%20Classification.ipynb)
     * [3G- Multiclass Text Classification](https://github.com/manabil/Machine_Learning_Intermediate/blob/main/3-%20Natural%20Language%20Processing/3G-%20NLP%20Multiclass%20Text%20Classification.ipynb)
+    * [3H- Time Series with LSTM](https://github.com/manabil/Machine_Learning_Intermediate/blob/main/3-%20Natural%20Language%20Processing/3H-%20Time%20Series%20with%20LSTM.ipynb)
