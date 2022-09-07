@@ -22,3 +22,4 @@
     * [5A- TF Agents and Deep Q Network](https://github.com/manabil/Machine_Learning_Intermediate/blob/main/5-%20Reinforcement%20Learning/5A-%20TF%20Agents%20and%20Deep%20Q%20Network.ipynb)
 6. 🏗 Deployment
     * [6A- TF22oonx Export](https://github.com/manabil/Machine_Learning_Intermediate/blob/main/6-%20Deployment/6A-%20TF2onnx%20Export.ipynb)
+    * [6B- Export Image Recognition to TFLite](https://github.com/manabil/Machine_Learning_Intermediate/blob/main/6-%20Deployment/6B-%20Export%20Image%20Recognition%20to%20TFLite.ipynb)
