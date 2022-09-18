@@ -23,6 +23,7 @@
 6. 🏗 Deployment
     * [6A- TF22oonx Export](https://github.com/manabil/Machine_Learning_Intermediate/blob/main/6-%20Deployment/6A-%20TF2onnx%20Export.ipynb)
     * [6B- Export Image Recognition to TFLite](https://github.com/manabil/Machine_Learning_Intermediate/blob/main/6-%20Deployment/6B-%20Export%20Image%20Recognition%20to%20TFLite.ipynb)
+    * [6C- Rice Type Classifier](https://github.com/manabil/Machine_Learning_Intermediate/blob/main/6-%20Deployment/6C-%20Rice%20Type%20Classifier.ipynb)
 
 ## 🏗 Related Subject
 <details>
